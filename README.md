@@ -1,11 +1,16 @@
 # CS360_Portfolio
+
+# Course Overview
 //Throughout this course, I was tasked with developing mobile applications, and special attention was given to designing the UI and UX, ensuring that the users were able to comfortably and conveniently access everything they needed to achieve their intended purpose.
 Below are some samplings of my UI/UX prototyping and wireframing:
 
+The purpose of this redesign was to bring the most commonly used elements down to the users thumb for easy access, with the option to edit the elements shown at the bottom.
 ![Mockup Facebook Redesign](Lucid_UI_proto_excercise_FB.png)
 
+This was an app design I made up for scanning barcodes, displaying nutritional data and helping user's optimize their diet/health/wellness plans.
 ![Barcode app flow](Lucid_UX_flow_excercise_Barco.png)
 
+# Final Project Overview
 //Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?// 
 
 The goal of the app was to create a way for the user to manage inventory. The user needed to be able to create a profile, sign in, and access their inventories. The user needed the ability to add items, change their quantities, and delete items. The user also needed to have SMS notifications that warned them when an item ran out. This would allow the user to keep track of their items whenever they use the app. 
