@@ -1,4 +1,8 @@
 # CS360_Portfolio
+//Throughout this course, I was tasked with developing mobile applications, and special attention was given to designing the UI and UX, ensuring that the users were able to comfortably and conveniently access everything they needed to achieve their intended purpose.
+Below are some samplings of my UI/UX prototyping and wireframing:
+
+
 
 //Briefly summarize the requirements and goals of the app you developed. What user needs was this app designed to address?// 
 
